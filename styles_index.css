@@ -45,6 +45,7 @@ a{
 
 p{
     font-size: 1.6rem;
+    padding-left: env(safe-area-insert-left);
 }
 
 b{
