@@ -538,6 +538,10 @@ header{
         display: none;
     }
 
+    .logo{
+        width: 100px;
+    }
+
     .nav{
         justify-content: space-between;
     }
