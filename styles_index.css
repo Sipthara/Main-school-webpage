@@ -45,7 +45,6 @@ a{
 
 p{
     font-size: 1.6rem;
-    padding-left: env(safe-area-insert-left);
 }
 
 b{
@@ -54,7 +53,7 @@ b{
 
 .container{
     width: 100%;
-    max-width: 100%;
+    max-width: 70%;
     margin: 0 auto;
     padding: 0 2.4rem;
 }
